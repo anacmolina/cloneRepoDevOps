@@ -1,5 +1,5 @@
 import unittest
-from desoper import hello
+from desoper import cloneRepoDevOps
 
 
 class Test_hello(unittest.TestCase):
