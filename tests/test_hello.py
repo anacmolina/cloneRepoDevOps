@@ -4,7 +4,7 @@ from desoper import cloneRepoDevOps
 
 class Test_hello(unittest.TestCase):
     def test__working(self):
-        self.assertEqual(hello.hello(),
+        self.assertEqual(cloneRepoDevOps.hello(),
                          'Hello, World!', True)
 
 
